@@ -1,0 +1,142 @@
+Bachelor’s,
+  Accounting (B.S.)
+  Actuarial Science (B.S.)
+  Art Education (B.A.)
+  Arts (B.A.)
+  Biochemistry and Molecular Biology (B.S.)
+  Biology (B.S.)
+  Biology Laboratory Science (B.S.)
+  Biology Secondary Education (B.S.)
+  Business Administration (B.S.)
+  Business Data Science (B.S.)
+  Chemistry (B.S.)
+  Chemistry Laboratory Science (B.S.)
+  Chemistry Secondary Education (B.S.)
+  Computational Physics (B.S.)
+  Computer Engineering (B.S.)
+  Computer Science (B.S.)
+  Criminal Justice (B.A.)
+  Data Science (B.S.)
+  Digital Media Production (B.A.)
+  Early Childhood Education (B.S.)
+  Early Childhood Education with Special Education Certification (B.S.)
+  Economics (B.A.)
+  Elementary/Middle Level Education (B.S.)
+  Engineering (B.S.)
+  English (B.A.)
+  English Secondary Education (B.A.)
+  Environmental Science (B.S.)
+  Exercise Science (B.S.)
+  Finance (B.S.)
+  Financial Economics (B.S.)
+  French (B.A.)
+  German (B.A.)
+  Graphic Design (B.A.)
+  Health Sciences (B.S.)
+  History (B.A.)
+  Individualized Major (B.A.)
+  Information Systems (B.S.)
+  International Business (B.S.)
+  Japanese (B.A.)
+  Journalism (B.A.)
+  Legal Studies (B.A.)
+  Marketing (B.S.)
+  Mathematical Business (B.S.)
+  Mathematics (B.S.)
+  Mathematics - Secondary Education (B.S.)
+  Media Analytics and Social Media (B.S.)
+  Music (B.A.)
+  Music Education (B.M.)
+  Music Therapy (B.M.)
+  Neuroscience (B.S.)
+  Physics Secondary Education (B.S.)
+  Political Science (B.A.)
+  Psychology (B.A.)
+  Public Health (B.A./B.S.)
+  Public Relations (B.A.)
+  Religious Studies (B.A.)
+  Social Studies (B.S.)
+  Social Work (B.S.W.)
+  Sociology (B.A.)
+  Spanish (B.A.)
+  Spanish Education (B.A.),
+Master’s,
+  Master of Education in Curriculum and Instruction (M.Ed.)
+  Master of Education in Special Education (M.Ed.)
+  Master of Music Education (M.M.E.)
+  Master of Organizational Analytics (M.S.)
+  Master of Physician Assistant Studies (M.P.A.S.)
+  Master of Public Policy (M.P.P.)
+  Master of Science in Occupational Therapy (M.S.),
+Doctoral,
+  Occupational Therapy (OTD),
+Certificates,
+  ESL Program Specialist K-12 Certificate
+  Graduate Certificate in Curriculum and Instruction
+  Graduate Certificate in ESL Program Specialist K-12
+  Graduate Certificate in Integrative Science, Technology, Engineering, and Mathematics (STEM) Education Endorsement
+  Graduate Certificate in Interdisciplinary Autism Support
+  Graduate Certificate in Trauma Informed Practice
+  Public Heritage Studies Certificate
+  SAS Joint Certificate in Data Analytics
+  TESOL (Teaching English as a Second or Other Language),
+Advising Program,
+  Health Professions Advising
+  Pre-Law Advising Program,
+Minors,
+  Architectural Studies Minor
+  Art History Minor
+  Arts Administration Minor
+  Arts Minor
+  Asian Studies Minor
+  Biochemistry Minor
+  Biology Minor
+  Business Administration Minor
+  Chemistry Minor
+  Coaching Minor
+  Cognitive Science Minor
+  Communications Minor
+  Computer Science Minor
+  Creative Writing Minor
+  Data Analytics Minor
+  Economics Minor
+  English Literature Minor
+  English Professional Writing Minor
+  Family Business and Entrepreneurship Program
+  Finance Minor
+  French Minor
+  General Science Minor
+  German Minor
+  Graphic Design Minor
+  History Minor
+  Human Services Minor
+  Information Systems Minor
+  International Studies Minor
+  Japanese Minor
+  Mathematics Minor
+  Music Minor
+  Philosophy Minor
+  Physics Minor
+  Political Science Minor
+  Psychology Minor
+  Religious Studies Minor
+  Sociology Minor
+  Spanish Minor
+  Technical Design Minor
+  Women and Gender Studies Minor,
+Joint Degree Programs,
+  Doctor of Dental Medicine/Baccalaureate 4+4 Program with Lake Erie College of Osteopathic Medicine
+  Doctor of Dental Surgery/Baccalaureate 4+4 Program with West Virginia University School of Dentistry
+  Doctor of Optometry/B.S. 3+4 Program with Pennsylvania College of Optometry at Salus University
+  Doctor of Osteopathic Medicine/B.S. 3+4 or 4+4 Program with Lake Erie College of Osteopathic Medicine
+  Doctor of Pharmaceutical/B.S. 3+4 or 4+4 Program with Lake Erie College of Osteopathic Medicine
+  Doctor of Physical Therapy/B.S. 3+3 Program with Widener University
+  Doctor of Physical Therapy/B.S. 4+3 Program with Thomas Jefferson University
+  Law Early Admission Program (LEAP) with Drexel University Thomas R. Kline School of Law
+  Law Early Admission Program (LEAP) with Duquesne University School of Law
+  Law Early Admission Program (LEAP) with Widener University School of Law
+  Master of Public Health Program with Penn State University College of Medicine
+  Master of Science in Molecular Medicine/B.S. in Biotechnology 4+1 Program with Drexel University College of Medicine
+  Osteopathic Medicine/B.S. 3+4 or 4+4 Program with Philadelphia College of Osteopathic Medicine (Emphasis in Biology)
+  Osteopathic Medicine/B.S. 3+4 or 4+4 Program with Philadelphia College of Osteopathic Medicine (Emphasis in Chemistry/Biochemistry)
+  Premedical Primary Care Program with Pennsylvania State University College of Medicine,
