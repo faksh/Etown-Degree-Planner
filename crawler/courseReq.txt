@@ -30,12 +30,6 @@ BA 101 - Business and Society
 BA 105 - Managerial Communication and Student Career Preparedness
 EC 101 - SSC Principles of Macroeconomics
 Three Core courses (12 credits)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 MA 121 - MA Calculus I
 MA 122 - Calculus II
 MA 130 - Creative Problem Solving I
@@ -73,12 +67,6 @@ MA 122 - Calculus II
 MA 130 - Creative Problem Solving I
 MA 262 - Financial Mathematics with Excel
 Natural and Physical Science Core course (4 credits)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 ED 105 - Foundations of Teaching and Learning
 ED 151 - Early Adolescent/Adolescent Development
 ED 161 - Integrated Technology I
@@ -149,12 +137,6 @@ ART 120 - CE Sculpture I
 ART 210 - Drawing II
 One English Literature (Core and Guided-Writing and Research) course (4 credits)
 Two Mathematics courses (8 credits total)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 ART 105 - CE Drawing I
 ART 106 - CE Ceramics I
 ART 120 - CE Sculpture I
@@ -229,12 +211,6 @@ ART 120 - CE Sculpture I
 ART 155 - WCH Introduction to the History of Art I
 ART 157 - WCH Introduction to the History of Art II
 Core course (4 credits)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 BIO 111 - Molecules, Cells, & Animal Systems
 BIO 112 - Principles of Evolution, Ecology, and Diversity of Life
 BIO 211 - Genetics
@@ -282,12 +258,6 @@ CH 113 - Organic Chemistry I
 BIO 111 - Molecules, Cells, & Animal Systems
 BIO 112 - Principles of Evolution, Ecology, and Diversity of Life
 MA 121 - MA Calculus I
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 BIO 111 - Molecules, Cells, & Animal Systems
 BIO 112 - Principles of Evolution, Ecology, and Diversity of Life
 BIO 211 - Genetics
@@ -376,12 +346,6 @@ CH 105 - NPS Fundamentals of Chemistry: Introduction to Molecular Science
 BIO 112 - Principles of Evolution, Ecology, and Diversity of Life
 CH 113 - Organic Chemistry I
 PSY 105 - SSC Introduction to Psychology
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 BIO 111 - Molecules, Cells, & Animal Systems
 BIO 112 - Principles of Evolution, Ecology, and Diversity of Life
 BIO 211 - Genetics
@@ -422,12 +386,6 @@ BIO 112 - Principles of Evolution, Ecology, and Diversity of Life
 CH 105 - NPS Fundamentals of Chemistry: Introduction to Molecular Science
 CH 113 - Organic Chemistry I
 Two Core courses (8 credits)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 BIO 111 - Molecules, Cells, & Animal Systems
 BIO 112 - Principles of Evolution, Ecology, and Diversity of Life
 BIO 211 - Genetics
@@ -473,12 +431,6 @@ CH 113 - Organic Chemistry I
 ED 105 - Foundations of Teaching and Learning
 ED 151 - Early Adolescent/Adolescent Development
 ED 161 - Integrated Technology I
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 A non-credit program, Backpack-to-Briefcase (completion is managed via JayWeb)
 AC 101 - Introduction to Accounting
 BA 101 - Business and Society
@@ -524,12 +476,6 @@ BA 105 - Managerial Communication and Student Career Preparedness
 EC 101 - SSC Principles of Macroeconomics
 EC 102 - SSC Principles of Microeconomics
 Core course (4 credits)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 A non-credit program, Backpack-to-Briefcase (completion is managed via JayWeb)
 AC 101 - Introduction to Accounting
 BA 101 - Business and Society
@@ -574,12 +520,6 @@ BA 105 - Managerial Communication and Student Career Preparedness
 CS 121 - Computer Science I
 MA 121 - MA Calculus I
 MA 200 - Applied Matrix Algebra
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 CH 105 - NPS Fundamentals of Chemistry: Introduction to Molecular Science
 CH 113 - Organic Chemistry I
 CH 201 - Laboratory Methods in Chemistry
@@ -674,12 +614,6 @@ BIO 111 - Molecules, Cells, & Animal Systems
 MA 121 - MA Calculus I
 MA 122 - Calculus II
 One Core course (4 credits total)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 CH 105 - NPS Fundamentals of Chemistry: Introduction to Molecular Science
 CH 113 - Organic Chemistry I
 CH 201 - Laboratory Methods in Chemistry
@@ -707,12 +641,6 @@ CH 113 - Organic Chemistry I
 BIO 111 - Molecules, Cells, & Animal Systems
 MA 121 - MA Calculus I
 Two Core courses (8 credits total)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 CH 105 - NPS Fundamentals of Chemistry: Introduction to Molecular Science
 CH 113 - Organic Chemistry I
 CH 201 - Laboratory Methods in Chemistry
@@ -755,12 +683,6 @@ BIO 111 - Molecules, Cells, & Animal Systems
 MA 121 - MA Calculus I
 MA 122 - Calculus II
 ED 105 - Foundations of Teaching and Learning
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 PHY 201 - College Physics I
 PHY 202 - College Physics II
 PHY 203 - College Physics III
@@ -792,12 +714,6 @@ MA 251 - MA Probability and Statistics
 Creative Expression Core course (4 credits)
 Power of Language: Other Core course (4 credits)
 One Elective course (4 credits)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 PHY 201 - College Physics I
 PHY 202 - College Physics II
 CS 121 - Computer Science I
@@ -840,12 +756,6 @@ PHY 201 - College Physics I
 CS 121 - Computer Science I
 MA 121 - MA Calculus I
 Power of Language: Other Core course (4 credits)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 CS 121 - Computer Science I
 CS 122 - Computer Science II
 CS 221 - Data Structures
@@ -873,12 +783,6 @@ MA 122 - Calculus II
 CS 121 and CS 122 are prerequisites to upper-level courses in Computer Science and must be taken before upper-level course can be attempted. Placement above CS 121/CS 122 for incoming students is done either by AP exam credit or through discussion with the course instructor and the Dean.
 MA121 and MA 122 are required of Computer Science majors, and should be taken in the first year, if possible. A student who achieved a score of 4 or better on the College Board Advanced Placement Calculus AB Examination should be placed MA 122 in the first semester. Credit will be given for MA 121. A student who achieved a score of 4 or better on the College Board Advanced Placement Calculus BC Examination receives credits for both MA 121 and for MA 122.
 A C- or better is required to advance from MA 121 to MA 122.
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 MA 251 - MA Probability and Statistics
 SO 101 - SSC Discovering Society
 SO 105 - Introductory Seminar for Sociology and Anthropology
@@ -923,12 +827,6 @@ SO 217 - U.S. Criminal Justice System
 CH 109 - NPS Introduction to Forensic Science
 CH 110 - NPS Forensic Science Laboratory
 Power of Language: Other Core course (4 credits)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 CS 121 - Computer Science I
 CS 122 - Computer Science II
 CS 221 - Data Structures
@@ -952,12 +850,6 @@ CS 121 - Computer Science I
 CS 122 - Computer Science II
 MA 121 - MA Calculus I
 MA 222 - Calculus III
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 COM 120 - Intro to Communications
 COM 130 - Visual Communications
 COM 210 - Presentation Skills
@@ -992,12 +884,6 @@ COM 120 - Intro to Communications
 COM 130 - Visual Communications
 COM 210 - Presentation Skills
 COM 211 - Multimedia Journalism
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 ED 105 - Foundations of Teaching and Learning
 ED 150 - Early Childhood Development
 ED 161 - Integrated Technology I
@@ -1029,12 +915,6 @@ ED 161 - Integrated Technology I
 MA 205 - Mathematics for the Elementary Teacher
 One Non-Cultural Heritage Core course (4 credits)
 One Power of Language: Other Core course (4 credits)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 ED 105 - Foundations of Teaching and Learning
 ED 150 - Early Childhood Development
 ED 161 - Integrated Technology I
@@ -1072,12 +952,6 @@ MA 205 - Mathematics for the Elementary Teacher
 Non-Cultural Heritage Core course (4 credits)
 Power of Language: Other Core course (4 credits)
 Humanities Core course (4 credits)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 A non-credit program, Backpack-to-Briefcase (completion is managed via JayWeb)
 BA 105 - Managerial Communication and Student Career Preparedness
 BA 260 - Introduction to Data Visualization
@@ -1102,12 +976,6 @@ EC 101 - SSC Principles of Macroeconomics
 EC 102 - SSC Principles of Microeconomics
 MA 121 - MA Calculus I
 Two Core courses (8 credits total)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 ED 105 - Foundations of Teaching and Learning
 ED 151 - Early Adolescent/Adolescent Development
 ED 161 - Integrated Technology I
@@ -1271,12 +1139,6 @@ ED 161 - Integrated Technology I
 HI 101 - HUM United States History to 1877
 HI 102 - HUM United States History Since 1877
 MA 205 - Mathematics for the Elementary Teacher
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 PHY 201 - College Physics I
 PHY 202 - College Physics II
 EGR 191 - Introduction to Engineering I
@@ -1365,12 +1227,6 @@ MA 121 - MA Calculus I
 MA 122 - Calculus II
 PHY 201 - College Physics I
 Power of Language: Other Core course (4 credits)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 EN 200 - Major British Writers
 EN 220 - WCH British Literature: Medieval, Renaissance, or 18th Century (Pre-1800)
 EN 230 - WCH British Literature: Romantic, Victorian, or Modern (Post-1800)
@@ -1459,12 +1315,6 @@ EN 240 - WCH American Literature: Revolution to Civil War, Realist, or Modern
  
 Power of Language: Other Core course (4 credits)
 Mathematics Core course (4 credits)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 EN 200 - Major British Writers
  
 EN 220 - WCH British Literature: Medieval, Renaissance, or 18th Century (Pre-1800) or
@@ -1516,12 +1366,6 @@ ED 151 - Early Adolescent/Adolescent Development
 ED 161 - Integrated Technology I
 Power of Language: Other Core course (4 credits)
 Mathematics PDE requirement (MA 205 or equivalent) or Mathematics Core requirement (MA 251 or equivalent)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 BIO 111 - Molecules, Cells, & Animal Systems
 BIO 112 - Principles of Evolution, Ecology, and Diversity of Life
 BIO 113 - NPS Introduction to Environmental Science
@@ -1568,12 +1412,6 @@ CH 113 - Organic Chemistry I
 BIO 111 - Molecules, Cells, & Animal Systems
 BIO 112 - Principles of Evolution, Ecology, and Diversity of Life
 Two Core courses (8 credits)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 BIO 111 - Molecules, Cells, & Animal Systems
 BIO 201 - Human Anatomy and Physiology I
 BIO 202 - Human Anatomy and Physiology II
@@ -1597,12 +1435,6 @@ ESC 320 - Exercise and Special Populations
 ESC 330 - Professional Communication
 ESC 470-474 - Exercise Science Internship
 ESC 495 - Exercise Science Senior Seminar
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 A non-credit program, Backpack-to-Briefcase (completion is managed via JayWeb)
 AC 101 - Introduction to Accounting
 EC 101 - SSC Principles of Macroeconomics
@@ -1641,12 +1473,6 @@ AC 101 - Introduction to Accounting
 EC 101 - SSC Principles of Macroeconomics
 EC 102 - SSC Principles of Microeconomics
 Five Core courses (20 credits)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 A non-credit program, Backpack-to-Briefcase (completion is managed via JayWeb)
 AC 101 - Introduction to Accounting
 BA 260 - Introduction to Data Visualization
@@ -1669,12 +1495,6 @@ AC 101 - Introduction to Accounting
 EC 101 - SSC Principles of Macroeconomics
 EC 102 - SSC Principles of Microeconomics
 MA 251 - MA Probability and Statistics
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 FR 211 - PLO Intermediate French I
 FR 212 - PLO Intermediate French II
 Two 300-level elective courses
@@ -1688,12 +1508,6 @@ EN 150 - PLE Advanced Writing and Language
 FR 211 - PLO Intermediate French I
 FR 212 - PLO Intermediate French II
 Four Core/Elective courses (16 credits)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 GER 211 - PLO Intermediate German I
 GER 212 - PLO Intermediate German II
 Two 300-level elective courses
@@ -1707,12 +1521,6 @@ EN 150 - PLE Advanced Writing and Language
 GER 211 - PLO Intermediate German I
 GER 212 - PLO Intermediate German II
 Four Core/Elective courses (16 credits total)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 ART 105 - CE Drawing I
  
 ART 106 - CE Ceramics I or
@@ -1749,12 +1557,6 @@ MA 121 - MA Calculus I or
 MA 251 - MA Probability and Statistics
  
 Core course (4 credits)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 OT 105 - Introduction to Health and Wellness
 OT 110 - Occupations across the Lifespan
 OT 205 - Evidence-Based Practice Foundation
@@ -1787,12 +1589,6 @@ OT 110 - Occupations across the Lifespan
 PSY 105 - SSC Introduction to Psychology
 MA 251 - MA Probability and Statistics
 Power of Language: Other Core course (4 credits)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 HI 101 - HUM United States History to 1877 or
 HI 102 - HUM United States History Since 1877
  
@@ -1830,24 +1626,12 @@ HI 115 - WCH Western Civilization II
 PHS 201 - Elizabethtown History: Campus and Community (HON 201)
 PHS 202 - Museum Studies and Museum Education
 PHS 203 - Archival Resources and Digital Humanities
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 a personal statement of intent (300-word minimum) that explains the unique nature of the individualized major; the intellectual, career, and/or creative path; and the student learning outcomes that the student has in mind.
 explanation of how (at least) two Signature Learning Experiences will be completed as part of the proposed academic course of study.
 be composed of no less than 40 credit hours
 at least 4 courses at the 300- or 400- level
 no more than 4 courses at the 100-level
 ordinarily, the program of study should include at least 16 credit hours from each of two different disciplines
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 CS 121 - Computer Science I
 CS 122 - Computer Science II
 CS 221 - Data Structures
@@ -1873,12 +1657,6 @@ EN 150 - PLE Advanced Writing and Language
  
 CS 121 - Computer Science I
 CS 122 - Computer Science II
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 BA 197 - Introduction to International Business
 BA 257 - Exporting and Importing
 BA 258 - Global Business Negotiations
@@ -1945,12 +1723,6 @@ BA 197 - Introduction to International Business
 EC 101 - SSC Principles of Macroeconomics
 EC 102 - SSC Principles of Microeconomics
 Two Language courses (211 and 212) (8 credits total)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 JA 111 - PLO First Year Japanese 1
 JA 112 - PLO First Year Japanese 2
 JA 211 - PLO Second Year Japanese 1
@@ -1969,12 +1741,6 @@ EN 150 - PLE Advanced Writing and Language
 JA 111 - PLO First Year Japanese 1
 JA 112 - PLO First Year Japanese 2
 Four Core/Elective courses (16 credits)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 COM 120 - Intro to Communications or
 EN 185 - Introduction to Professional Writing
  
@@ -2018,12 +1784,6 @@ EN 185 - Introduction to Professional Writing
 COM 130 - Visual Communications
 COM 210 - Presentation Skills
 COM 211 - Multimedia Journalism
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 PH 115 - HUM Ethics or
 PH 255C - Advanced Ethics: Legal
  
@@ -2067,12 +1827,6 @@ PH 115 - HUM Ethics or
 PH 255C - Advanced Ethics: Legal
  
 4 credits of 100/200- level electives
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 A non-credit program, Backpack-to-Briefcase (completion is managed via JayWeb)
 AC 101 - Introduction to Accounting
 BA 101 - Business and Society
@@ -2133,12 +1887,6 @@ BA 105 - Managerial Communication and Student Career Preparedness
 BA 215 - Principles of Marketing
 EC 101 - SSC Principles of Macroeconomics
 Core course (4 credits)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 CS 113 - NPS The Power and Beauty of Computing or
 CS 121 - Computer Science I
  
@@ -2197,12 +1945,6 @@ CS 121 - Computer Science I
  
 EC 101 - SSC Principles of Macroeconomics
 Natural and Physical Science Core course (4 credits)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 MA 121 - MA Calculus I
 MA 122 - Calculus II
 MA 130 - Creative Problem Solving I
@@ -2240,12 +1982,6 @@ MA 121 - MA Calculus I
 MA 122 - Calculus II
 MA 130 - Creative Problem Solving I
 Two Core courses (8 credits total)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 MA 121 - MA Calculus I
 MA 122 - Calculus II
 MA 130 - Creative Problem Solving I
@@ -2284,12 +2020,6 @@ MA 122 - Calculus II
 MA 130 - Creative Problem Solving I
 CS 121 - Computer Science I
 Power of Language Core course (4 credits)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 COM 120 - Intro to Communications
 COM 130 - Visual Communications
 COM 210 - Presentation Skills
@@ -2325,12 +2055,6 @@ COM 120 - Intro to Communications
 COM 130 - Visual Communications
 COM 210 - Presentation Skills
 COM 211 - Multimedia Journalism
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 MU 100 - Repertoire Class
 MU 101 - Theory I
 MU 102 - Theory II
@@ -2372,12 +2096,6 @@ MU 118 - Functional Keyboard Skills II
 First Applied (MU 268- MU 286) (both semesters)
 One additional Core course (4 credits)
 Ensemble
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 MU 100 - Repertoire Class
 MU 101 - Theory I
 MU 102 - Theory II
@@ -2468,12 +2186,6 @@ MU 120 - Guitar Class II (Optional)
 One English Literature (Core and Guided-Writing and Research) course (4 credits)
 Ensemble
 First Applied Instruction (MU 268- MU 286)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 MU 100 - Repertoire Class
 MU 101 - Theory I
 MU 102 - Theory II
@@ -2554,12 +2266,6 @@ MU 236 - Percussion for Music Therapy
 Primary Instrument (MU 268 - MU 286)
 Ensemble
 PSY 105 - SSC Introduction to Psychology
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 NEU 125 - NPS Introduction to Neuroscience
 PSY 105 - SSC Introduction to Psychology
 BIO 111 - Molecules, Cells, & Animal Systems
@@ -2599,12 +2305,6 @@ BIO 111 - Molecules, Cells, & Animal Systems
 CH 105 - NPS Fundamentals of Chemistry: Introduction to Molecular Science
 PSY 105 - SSC Introduction to Psychology
 Four Core/Elective courses (16 credits)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 PHY 120 - Introductory Mathematics for Physics
 PHY 201 - College Physics I
 PHY 202 - College Physics II
@@ -2647,12 +2347,6 @@ PHY 201 - College Physics I
  
 MA 121 - MA Calculus I or
 MA 122 - Calculus II
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 PS 101 - WCH Foundations of American Government
 PS 150 - NCH Introduction to Comparative Politics
 PS 205 - WCH Western Political Heritage
@@ -2673,12 +2367,6 @@ EN 150 - PLE Advanced Writing and Language
  
 PS 111 - SSC American National Government
 PS 150 - NCH Introduction to Comparative Politics
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 PSY 105 - SSC Introduction to Psychology
 NEU 125 - NPS Introduction to Neuroscience
 PSY 205 - Career Seminar
@@ -2717,12 +2405,6 @@ NEU 125 - NPS Introduction to Neuroscience (Preferably to be taken in the second
  
 One 200-level course in the Domains of Psychology (Mind and Body, Self and Society, Clinical and Counseling)
 Five Core/Elective courses (20 credits total)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 PBH 111 - Principles of Public Health
 MA 251 - MA Probability and Statistics
 SO 204 - SSC Population and Global Issues
@@ -2769,12 +2451,6 @@ BIO 336 - Pathogenic Microbiology
 BIO 352 - Developmental Biology
 BIO 362 - Ecotoxicology
 CH 105 - NPS Fundamentals of Chemistry: Introduction to Molecular Science
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 COM 120 - Intro to Communications
 COM 130 - Visual Communications
 COM 210 - Presentation Skills
@@ -2809,12 +2485,6 @@ COM 120 - Intro to Communications
 COM 130 - Visual Communications
 COM 210 - Presentation Skills
 COM 211 - Multimedia Journalism
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 REL 495 - Capstone in Religious Studies
 REL 205 - SSC Theories and Methods in the Study of Religion
 REL 253 - Theology Through Film
@@ -2871,12 +2541,6 @@ One 200-Level Religious Studies course (4 credits)
 One Power of Languages: Other Core course (could include REL 213 or REL 217) (4 credits)
 One Creative Expression Core course (4 credits)
 Two Elective courses (8 credits total)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 HI 101 - HUM United States History to 1877
 HI 102 - HUM United States History Since 1877
  
@@ -2919,12 +2583,6 @@ ED 151 - Early Adolescent/Adolescent Development
 MA 205 - Mathematics for the Elementary Teacher
 HI 101 - HUM United States History to 1877
 HI 102 - HUM United States History Since 1877
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 SW 160 - SSC Social Problems and Response of Social Welfare Institutions
 SW 233 - Human Behavior in the Social Environment
 SW 280 - Multicultural Counseling Skills
@@ -2950,12 +2608,6 @@ EN 150 - PLE Advanced Writing and Language
 SW 160 - SSC Social Problems and Response of Social Welfare Institutions
 PSY 105 - SSC Introduction to Psychology
 SO 101 - SSC Discovering Society
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 SO 101 - SSC Discovering Society
 SO 105 - Introductory Seminar for Sociology and Anthropology
 SO 204 - SSC Population and Global Issues
@@ -2975,12 +2627,6 @@ EN 100 - PLE Writing and Language or
 EN 150 - PLE Advanced Writing and Language
  
 SO 101 - SSC Discovering Society
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 SP 305 - Spanish Conversation
 SP 315 - Spanish Grammar and Composition
 SP 319 - Spanish Linguistics
@@ -2999,12 +2645,6 @@ EN 150 - PLE Advanced Writing and Language
 SP 211 - PLO Intermediate Spanish I
 SP 212 - PLO Intermediate Spanish II
 Four Core/Elective/Second major courses (16 credits total)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 ED 105 - Foundations of Teaching and Learning
 ED 151 - Early Adolescent/Adolescent Development
 ED 161 - Integrated Technology I
@@ -3035,12 +2675,6 @@ ED 105 - Foundations of Teaching and Learning
 ED 151 - Early Adolescent/Adolescent Development
 MA 121 - MA Calculus I
 One English Literature (Core and Guided-Writing and Research) course (4 credits)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 Graduate Certificate in Interdisciplinary Autism Support 
 Graduate Certificate in Trauma Informed Practice 
 Graduate Certificate in ESL Program Specialist K-12 
@@ -3051,12 +2685,6 @@ MCI 530 - Building Social and Community Capacity
 MCI 535 - Current Issues and Trends in Assessment in Special and Applied Statistics
 MCI 550 - Social Emotional Learning
 MCI 590 - The Graduate Research Seminar
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 Complete requirements in general education certification (see applicable undergraduate degree planners).
 Receive a B or above in SED 212/MSE 512 (Learning Environment and Social Interaction in Inclusive Settings) and SED 222/MSE 522 (Foundations of Inclusive Education).
 Maintain a 3.3 cumulative GPA or above.
@@ -3076,12 +2704,6 @@ MSE 544 - Intensive Reading, Writing, and Mathematics Intervention (SED 344)
 MSE 565 - Issues in Special Education
 MSE 570 - Graduate Student Teaching
 MSE 590 - Graduate Research Seminar
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 MME 501 - Introductory Seminar
 MME 511 - Peacebuilding and Philosophy
 MME 512 - Curriculum, Assessment, and Measurement
@@ -3095,12 +2717,6 @@ TIC 520 - The Impact of Trauma on Brain Architecture and Child Development
 TIC 510 - Sustaining Trauma-Sensitive Systems
 ASC 500 - Autism Across the Lifespan
 ASC 510 - Interoception Assessment and Intervention
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 MOA 500 - Data Analytics (DAT200)
 MOA 510 - Big Data and Statistical Analysis (DAT 300)
 MOA 515 - Machine Learning (DAT 315)
@@ -3139,12 +2755,6 @@ MOA 552 - Statistical Methods in Research
 MOA 560 - Business Data Visualization (BA 260)
 MOA 600 - Data Analytics Thesis (DAT 400)
 MOA 670 - Applied Programming
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 MPA 500 - Medical Terminology
 MPA 501 - Foundations of Health Sciences I
 MPA 502 - Foundations of Health Sciences II
@@ -3178,12 +2788,6 @@ MPA 616 - Surgery Preceptorship
 MPA 617 - Behavioral Medicine Preceptorship
 MPA 618 - Advanced Clinical Specialty Preceptorship
 MPA 699 - Culminating Experience
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 PP 520 - Public Policy Research I: Research Design and Data Analysis
 PP 521 - Public Policy Research II: Advanced Statistics
 PP 542 - Pennsylvania Politics and Policy (PS 342)
@@ -3194,12 +2798,6 @@ Two program-approved Public Policy electives
 PP 575 - Public Policy Internship (taken in the summer)
 PP 690 - Master’s Thesis I
 PP 691 - Master’s Thesis II
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 OT 505 - Occupational Therapy Evaluation: Adult Populations
 OT 515 - Occupational Therapy Evaluation: Pediatric Populations
 OT 525 - Occupational Therapy History and Theory
@@ -3214,12 +2812,6 @@ OT 560 - Analysis and Application: Functional Movement
 OT 562 - Management of Occupational Therapy Services
 OT 564 - Scholarship III: Analysis, Application, and Discussion
 OT 590 - Graduate Project Practicum
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 OT 505 - Occupational Therapy Evaluation: Adult Populations
 OT 515 - Occupational Therapy Evaluation: Pediatric Populations
 OT 525 - Occupational Therapy History and Theory
@@ -3241,119 +2833,47 @@ OT 795 - Capstone Experience
 OT 705 - Preparation for Practice
 OT 710 - Graduate Portfolio
 600 - Level Graduate Electives (3 courses)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 ED 243 - English Grammar and Linguistics for ESL Learners
 ED 255 - Literacy and Language Acquisition
 ED 268 - Educational Assessment and Evaluation of English Learners
 ED 352 - Cultural Diversity: Awareness, Relevance, and Responsiveness
 ED 362 - Methods for Teaching English Learners: Culturally and Linguistically Responsive Teaching
 ED 398 - Teaching English Learners Practicum
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 MCI 520 - Curriculum and Pedagogy
 MCI 525 - Curriculum and Methods
 MCI 530 - Building Social and Community Capacity
 MCI 535 - Current Issues and Trends in Assessment in Special and Applied Statistics
 MCI 550 - Social Emotional Learning
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 MED 543 - English Grammar and Linguistics for ESL Teachers
 MED 552 - Cultural Diversity: Awareness, Relevance, and Responsiveness
 MED 555 - Literacy and Language Acquisition
 MED 562 - Methods for Teaching English Learners: Culturally and Linguistically Responsive Teaching
 MED 568 - Educational Assessment and Evaluation of English Learners
 MED 570 - Teaching English language Learners Practicum
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 MED 510 - Introduction to STEM and STEM Education
 MED 520 - STEM Curriculum, Pedagogy, and Assessment
 MED 530 - Constructing Integrative STEM Curricula
 MED 571 - STEM Education Practicum
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 ASC 500 - Autism Across the Lifespan
 ASC 510 - Interoception Assessment and Intervention
 ASC 520 - Lifestyle Modification with Autism
 ASC 530 - Designing Responsive Programs with the Autism Community
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 TIC 500 - Foundations of Trauma
 TIC 520 - The Impact of Trauma on Brain Architecture and Child Development
 TIC 510 - Sustaining Trauma-Sensitive Systems
 TIC 530 - Trauma Informed Practice
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 Six credits of PHS courses
 Four credits of PHS 470-474 - Internship in Public Heritage Studies 
 One PHS offering
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 MA 252 - Statistical Methods in Research
 DAT 300 - Big Data and Statistical Analysis
 DAT 315 - Machine Learning
 DAT 400 - Data Analytics Capstone
 One 0-credit MOOC
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 EN 201 - TESOL Second Language Acquisition & Cross-cultural Perspectives
 EN 301 - English Grammar and Linguistics
 EN 307 - TESOL Methods and Assessment
 EN 475 - TESOL Internship and Seminar
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 ART 105 - CE Drawing I
 ART 280 - NCH World Architecture
  
@@ -3381,12 +2901,6 @@ ART 495 - Architectural Design Studio I (EGR 495)
 AND
 EGR 496 - Architectural Design Studio II (ART 496) or
 ART 496 - Architectural Design Studio II (EGR 496)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 ART 155 - WCH Introduction to the History of Art I
 ART 157 - WCH Introduction to the History of Art II
 ART 230 - American Art
@@ -3397,12 +2911,6 @@ ART 270 - Art of Africa, Asia, & Americas
 ART 280 - NCH World Architecture
 ART 360 - Italian Renaissance (HI 360)
 ART 470-474 - Internship in Fine Arts
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 BA 101 - Business and Society
 BA 215 - Principles of Marketing
  
@@ -3432,12 +2940,6 @@ Creativity and Entrepreneurship (Berklee)
 Finance for Everyone: Tools for Smart Decision Making (Michigan)
 Intellectual Property Law (Penn)
 FPA 490 - Arts Administration Strategy (BA 490)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 ART 105 - CE Drawing I
  
 ART 106 - CE Ceramics I or
@@ -3461,12 +2963,6 @@ ART 270 - Art of Africa, Asia, & Americas
 ART 280 - NCH World Architecture
 ART 360 - Italian Renaissance (HI 360)
 ART 470-474 - Internship in Fine Arts
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 Two semesters (8 credits) of one Asian language (currently Japanese or Sanskrit). See Course Descriptions.
 FBE 280 - Global Family Business
 HI 111 - NCH History of Pre-Modern Asia
@@ -3488,12 +2984,6 @@ REL 391 - Modern Hinduism
 REL 392 - Religion in China and Japan
 REL 393 - Indian Philosophy
 AS 490 - Capstone Directed Research Project
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 CH 105 - NPS Fundamentals of Chemistry: Introduction to Molecular Science
 CH 113 - Organic Chemistry I
 CH 213 - Organic Chemistry II
@@ -3508,46 +2998,22 @@ BIO 212L - Cell Biology Laboratory
 or
 BIO 310 - Molecular Biology and
 BIO 310L - Molecular Biology Laboratory
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 BIO 101 - NPS Biological Concepts
 BIO 102 - NPS Human Heredity and Inherited Diseases
 BIO 113 - NPS Introduction to Environmental Science
 BIO 111 - Molecules, Cells, & Animal Systems
 BIO 112 - Principles of Evolution, Ecology, and Diversity of Life
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 AC 101 - Introduction to Accounting
 EC 101 - SSC Principles of Macroeconomics
 BA 265 - Management and Organizational Behavior
 BA 330 - Legal Environment of Business
 Two Business electives at the 200-level or above
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 CH 105 - NPS Fundamentals of Chemistry: Introduction to Molecular Science
 CH 113 - Organic Chemistry I
 CH 213 - Organic Chemistry II
 CH 201 - Laboratory Methods in Chemistry
 CH 214 - Chemical Instrumentation
 At least four additional credits of advanced Chemistry electives as approved by the Program faculty
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 HW 110 - Being a Mental Health Ally
 HW 112 - Wellness and the College Student
 HW 130 - Introduction to Coaching: A Servant Leadership Approach
@@ -3563,12 +3029,6 @@ COM 210 - Presentation Skills
 ED 105 - Foundations of Teaching and Learning
 DAT 200 - Data Analytics
 CP 150 - Career and Purposeful Pathways
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 NEU 125 - NPS Introduction to Neuroscience
 CSC 290 - Introduction to Cognitive Science (PH 290)
 CSC 462 - Cognitive Science Capstone
@@ -3578,12 +3038,6 @@ CSC 350 - Animal Minds (PH 350)
 PSY 315 - Cognitive Psychology
 CS 121 - Computer Science I
 CS 434 - Green Robotics, Automation, and Machine Intelligence (EGR 434)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 COM 120 - Intro to Communications
 COM 130 - Visual Communications
 COM 210 - Presentation Skills
@@ -3599,23 +3053,11 @@ COM 333 - Organizational Communication
 COM 351 - Intro to Public Relations
 COM 355 - PR Writing
 COM 358 - Marketing Communications
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 CS 121 - Computer Science I
 CS 122 - Computer Science II
 CS 221 - Data Structures
 CS 222 - Systems Programming (EGR 222)
 Two Computer Science, Data Analytics, or Data Science courses (6 credits minimum) from the Computer Science major or Data Science major requirements at or above the 200-level.
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 COM 424 - Script and Screenwriting (prerequisite waived for Creative Writing minors)
 EN 180 - CE Introduction to Creative Writing
 EN 280 - Creative Writing - Poetry, Prose
@@ -3629,12 +3071,6 @@ ART 207 - Introduction to Graphic Design (prerequisite waived for Creative Writi
 ART 145 - CE Digital Photography (COM 145)
 COM 145 - CE Digital Photography (ART 145)
 CW 386 - Word, Web, and Design
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 DAT 200 - Data Analytics or
 CS 309 - Database Systems
  
@@ -3651,23 +3087,11 @@ MA 252 - Statistical Methods in Research Or
 EC 410 - Econometrics
  
 Approved MOOC (on Python, Hadoop, Business Intelligence, etc.)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 EC 101 - SSC Principles of Macroeconomics
 EC 102 - SSC Principles of Microeconomics
 EC 301 - Intermediate Microeconomics
 EC 302 - Intermediate Macroeconomics
 One Economics elective
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 One 300-level genre or themes elective
 One 400-level authors elective
 One literature or writing elective, 185 or higher
@@ -3675,22 +3099,10 @@ EN 200 - Major British Writers
 EN 220 - WCH British Literature: Medieval, Renaissance, or 18th Century (Pre-1800)
 EN 230 - WCH British Literature: Romantic, Victorian, or Modern (Post-1800)
 EN 240 - WCH American Literature: Revolution to Civil War, Realist, or Modern
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 EN 185 - Introduction to Professional Writing
 Two 200- or 300-level writing electives (middle digit 8)
 One 200-level British or American literature elective
 One 300- or 400-level literature elective
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 FBE 380 - Entrepreneurship
 FBE 384 - The Family as Entrepreneur
 FBE 385 - New Venture Creation
@@ -3702,12 +3114,6 @@ BA 265 - Management and Organizational Behavior
 BA 330 - Legal Environment of Business
 FBE 450 - Entrepreneurship in Emerging Economy
 FBE 470-474 - Internship in Family Business and Entrepreneurship
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 AC 101 - Introduction to Accounting
 FIN 325 - Corporate Finance
 FIN 327 - International Financial Management
@@ -3715,21 +3121,9 @@ FIN 412 - Financial Derivatives - Futures and Options
 FIN 420 - Financial Institution Management
 FIN 424 - Investments
 FIN 425 - Advanced Financial Management
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 FR 211 - PLO Intermediate French I
 FR 212 - PLO Intermediate French II
 Two 300-level French electives
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 MA 121 - MA Calculus I
 ES 113 - NPS Earth in Space: Evolution of a Planet or
 ES 114 - NPS Geosystems: Landscapes, Oceans and Atmosphere or
@@ -3742,21 +3136,9 @@ BIO 101 - NPS Biological Concepts or
 BIO 102 - NPS Human Heredity and Inherited Diseases or
 BIO 113 - NPS Introduction to Environmental Science or
 BIO 111 - Molecules, Cells, & Animal Systems
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 GER 211 - PLO Intermediate German I
 GER 212 - PLO Intermediate German II
 Two 300-level German electives
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 COM 130 - Visual Communications
 ART 207 - Introduction to Graphic Design
 ART 406 - Advanced Digital Arts
@@ -3770,12 +3152,6 @@ CW 386 - Word, Web, and Design
  
 ART 470-474 - Internship in Fine Arts or
 COM 470-473 - Practicum
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 HI 101 - HUM United States History to 1877 or
 HI 102 - HUM United States History Since 1877
  
@@ -3784,12 +3160,6 @@ HI 112 - NCH History of Modern Asia
  
 HI 114 - WCH Western Civilization I or
 HI 115 - WCH Western Civilization II
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 SW 160 - SSC Social Problems and Response of Social Welfare Institutions
 SW 233 - Human Behavior in the Social Environment
 SW 280 - Multicultural Counseling Skills
@@ -3828,23 +3198,11 @@ PSY 335 - Applied Social Psychology
 PSY 355 - Counseling Psychology
 PSY 360 - Psychology of Stress
 WGS 105 - SSC Sex and Gender in Society
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 CS 121 - Computer Science I
 CS 122 - Computer Science II
 CS 309 - Database Systems
 CS 341 - Software Engineering
 Two Computer Science or Data Science electives (6 credits minimum) from the Information Systems major requirements at or above the 200-level.
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 PS 245 - NCH International Relations
 Business
 BA 197 - Introduction to International Business
@@ -3907,35 +3265,17 @@ Sociology and Anthropology
 AN 111 - NCH Understanding Human Cultures
 SO 204 - SSC Population and Global Issues
 INT 490 - Directed Research Project in International Studies
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 JA 111 - PLO First Year Japanese 1
 JA 112 - PLO First Year Japanese 2
 JA 211 - PLO Second Year Japanese 1
 JA 212 - PLO Second Year Japanese 2
 JA 311 - Third Year Japanese 1
 JA 312 - Third Year Japanese 2
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 MA 121 - MA Calculus I
 MA 122 - Calculus II
 MA 201 - Linear Algebra
 MA 235 - Introduction to Mathematical Proofs
 Eight credits of mathematics electives MA 222 or higher
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 MU 101 - Theory I
 MU 102 - Theory II
 MU 103 - Aural Skills I
@@ -3949,12 +3289,6 @@ MU 441 - History of Early Music
  
 Four credits of instruction on one instrument or in voice, with registration in MU 100 (Repertoire Class) in each of the same semesters
 A minimum of four credits of Music Ensemble participation
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 PH 115 - HUM Ethics
 PH 205 - WCH Western Political Heritage (PS 205)
 PH 210 - Logic and Legal Reasoning
@@ -3972,22 +3306,10 @@ PH 350 - Animal Minds (CSC 350)
 PH 355 - Public Policy Ethics
 PH 370-378 - Special Topics in Philosophy
 PH 480-489 - Independent Study in Philosophy
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 PHY 201 - College Physics I
 PHY 202 - College Physics II
 PHY 203 - College Physics III
 Ten additional credits in physics, PHY 105 and higher.
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 PS 111 - SSC American National Government
  
 PS 150 - NCH Introduction to Comparative Politics or
@@ -3995,20 +3317,8 @@ PS 245 - NCH International Relations
  
 PS 205 - WCH Western Political Heritage
 Eight credits of Political Science electives, at least four of which must be at the 300- or 400-level
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 PSY 105 - SSC Introduction to Psychology
 16 credits of Psychology electives (PSY or NEU prefix); at least four credits of which must be at the 300- or 400-level
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 REL 495 - Capstone in Religious Studies
 HI 235 - SSC Citizenship and Conscience
 IC 204 - CE/HUM Artistic Peacebuilding
@@ -4038,26 +3348,8 @@ REL 470-474 - Internship in Religious Studies
 REL 480-489 - Independent Study in Religious Studies
 REL 490 - Independent Research in Religious Studies
 SO 317 - Sociology of Religion
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 SO 101 - SSC Discovering Society
 Four Sociology electives, one of which must be at the 300-level
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 PHY 101 - General Physics I or
 PHY 201 - College Physics I
  
@@ -4076,12 +3368,6 @@ EGR 402 - Senior Project in Engineering II
  
 EGR 201 - Community-Based Project or
 EGR 200 - Engineering Research/Project
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 WGS 105 - SSC Sex and Gender in Society
 WGS 315 - Feminist and Gender Theory
 COM 252 - HUM Multi-Cultural Communications
@@ -4109,12 +3395,6 @@ WGS 305 - Marriage and Family (SO 305)
  
 WGS 490 - Directed Research Project or
 WGS 491 - Directed Research Project
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 *  BIO 111 - Molecules, Cells, & Animal Systems
 *  BIO 112 - Principles of Evolution, Ecology, and Diversity of Life
 *  CH 105 - NPS Fundamentals of Chemistry: Introduction to Molecular Science
@@ -4137,12 +3417,6 @@ BIO 324 - General Physiology
 BIO 324L - General Physiology Laboratory
 BIO 341 - Comparative Mammalian Anatomy
 PHY 101 - General Physics I
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 BIO 111 - Molecules, Cells, & Animal Systems
 BIO 112 - Principles of Evolution, Ecology, and Diversity of Life
 BIO 211 - Genetics
@@ -4173,12 +3447,6 @@ Additional English elective
  
 PSY 105 - SSC Introduction to Psychology
 Additional Psychology elective
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 *  BIO 111 - Molecules, Cells, & Animal Systems
 *  BIO 112 - Principles of Evolution, Ecology, and Diversity of Life
 BIO 211 - Genetics
@@ -4217,12 +3485,6 @@ BIO 212 - Cell Biology
 NEU 125 - NPS Introduction to Neuroscience
 PSY 280 - Psychological Statistics
 PSY 285 - Psychological Research Methods
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 *  BIO 111 - Molecules, Cells, & Animal Systems
 *  BIO 112 - Principles of Evolution, Ecology, and Diversity of Life
 *  BIO 211 - Genetics
@@ -4256,12 +3518,6 @@ BIO 335 - Microbial Ecology and Diversity
  
 BIO 495 - Seminar in Biology
 Additional seven or eight credits of 200-level or higher Biology electives with at least two laboratories
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 *  BIO 111 - Molecules, Cells, & Animal Systems
 *  BIO 112 - Principles of Evolution, Ecology, and Diversity of Life
 BIO 211 - Genetics
@@ -4300,12 +3556,6 @@ BIO 335 - Microbial Ecology and Diversity
  
 BIO 495 - Seminar in Biology
 Additional 7 or 8 credits of 200-level or higher Biology electives with at least one laboratory
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 *  EN 100 - PLE Writing and Language or
 *  EN 150 - PLE Advanced Writing and Language
  
@@ -4341,12 +3591,6 @@ BIO 335 - Microbial Ecology and Diversity
  
 BIO 495 - Seminar in Biology
 Additional seven or eight credits of 200-level or higher Biology electives with at least two laboratories
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 EN 100 - PLE Writing and Language or
 EN 150 - PLE Advanced Writing and Language
  
@@ -4366,30 +3610,6 @@ PHY 102 - General Physics II or
 PHY 202 - College Physics II
 MA 251 - MA Probability and Statistics or higher
 1 semester of psychology (PSY prefix)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 MA 251 - MA Probability and Statistics
  
 One of the following:
@@ -4430,12 +3650,6 @@ SO 301 - Social Issues
 SW 233 - Human Behavior in the Social Environment
 SW 344 - Aging: Social Response and Implications
 SW 366 - Addiction and Society
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 BIO 111 - Molecules, Cells, & Animal Systems
 BIO 112 - Principles of Evolution, Ecology, and Diversity of Life
 BIO 211 - Genetics
@@ -4460,12 +3674,6 @@ CH 323 - Biochemistry I with or without the laboratory
 BIO 495 - Seminar in Biology
 BIO 491 - Research in Biology
 BIO 492 - Research in Biology
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 BIO 111 - Molecules, Cells, & Animal Systems
 BIO 112 - Principles of Evolution, Ecology, and Diversity of Life
 BIO 211 - Genetics
@@ -4501,12 +3709,6 @@ BIO 335 - Microbial Ecology and Diversity
  
 BIO 495 - Seminar in Biology
 Seven or eight credits of 200-level or higher Biology electives with at least two laboratories
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 CH 105 - NPS Fundamentals of Chemistry: Introduction to Molecular Science
 CH 113 - Organic Chemistry I
 CH 201 - Laboratory Methods in Chemistry
@@ -4533,12 +3735,6 @@ CH 455 - Integrated Chemistry Laboratory I (DO140A, B, & C)
 CH 495 - Chemistry Seminar III (DO138A)
 CH 496 - Chemistry Seminar IV (DO144)
 Six credits of Biology and Biochemistry (emphasis on genetics) (DO121)
-
-
-
-**************************** NEW DEGREE **************************** 
-
-
 BIO 111 - Molecules, Cells, & Animal Systems
 BIO 112 - Principles of Evolution, Ecology, and Diversity of Life
 CH 105 - NPS Fundamentals of Chemistry: Introduction to Molecular Science
@@ -4559,9 +3755,3 @@ PHY 102 - General Physics II
 OR
 PHY 201 - College Physics I and
 PHY 202 - College Physics II
-
-
-
-**************************** NEW DEGREE **************************** 
-
-

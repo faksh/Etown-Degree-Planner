@@ -8,6 +8,11 @@ var linkList = "";
 var courseReq = "";
 var otherReqs = "";
 
+//RegExp
+//&#8226; - bullet
+const newDegree = new RegExp(/&#8226/, 'g');
+//
+
 // Scrape all courses with name, # credits, and description.
 (async () => {
   try {
@@ -15,10 +20,9 @@ var otherReqs = "";
   const page = await browser.newPage();
 
 
-// Fetch links for each Degree/Program
+// Fetch all links for each Degree/Program
  await page.goto('https://catalog.etown.edu/content.php?catoid=24&navoid=1231');
 
-// Fetch all links for each degree/program
 const links = await page.$$('ul.program-list li a');
     const propertyJsHandles = await Promise.all(
       links.map(handle => handle.getProperty('href'))
@@ -31,12 +35,14 @@ const links = await page.$$('ul.program-list li a');
   linkList += link[i] + "\n";
 }
 
+reqStr = linkList.toString();
+reqStr = reqStr.replace(newDegree, "");
 
 // Write out courses to degreeLinks.txt
   var linktxtFile = 'C:\\Users\\shfak\\OneDrive\\Desktop\\seniorProject\\Etown-Degree-Planner\\Etown-Degree-Planner\\crawler\\degreeLinks.txt';
   if (fs.existsSync(linktxtFile)) {
-    console.log("EXISTS, OVERWRITING FILE");
-    fs.writeFile('./degreeLinks.txt', linkList, (error) => {
+    console.log("EXISTS, OVERWRITING degreeLinks.txt FILE");
+    fs.writeFile('./degreeLinks.txt', reqStr, (error) => {
       if (error) throw error;
     })
   }
@@ -56,6 +62,7 @@ const links = await page.$$('ul.program-list li a');
 
    // Required Courses
    const requirements = await page.$$('div.acalog-core li');
+   // <a name="theaccountingmajorrequires" id="core_12879"></a>
 
    // Fetch Required and Suggested Courses
    const reqHandler = await Promise.all(
@@ -88,7 +95,7 @@ const links = await page.$$('ul.program-list li a');
      otherReqs += reqOther[k] + "\n";
    }
 
-   courseReq += "\n\n\n**************************** NEW DEGREE **************************** \n\n";
+//   courseReq += "\n\n\n**************************** NEW DEGREE **************************** \n\n";
    otherReqs += "\n\n\n**************************** NEW DEGREE **************************** \n\n";
 
 }
@@ -96,7 +103,7 @@ const links = await page.$$('ul.program-list li a');
    // Write out course requirements to couseReq.txt
      var txtFile = 'C:\\Users\\shfak\\OneDrive\\Desktop\\seniorProject\\Etown-Degree-Planner\\Etown-Degree-Planner\\crawler\\courseReq.txt';
      if (fs.existsSync(txtFile)) {
-       console.log("EXISTS, OVERWRITING FILE");
+       console.log("EXISTS, OVERWRITING courseReq.txt FILE");
        fs.writeFile('./courseReq.txt', courseReq, (error) => {
          if (error) throw error;
        })
@@ -107,12 +114,12 @@ const links = await page.$$('ul.program-list li a');
          if (error) throw error;
        })
      }
-
+/*
 
      // Write out other requirements to otherReq.txt
        var txtFile = 'C:\\Users\\shfak\\OneDrive\\Desktop\\seniorProject\\Etown-Degree-Planner\\Etown-Degree-Planner\\crawler\\otherReqs.txt';
        if (fs.existsSync(txtFile)) {
-         console.log("EXISTS, OVERWRITING FILE");
+         console.log("EXISTS, OVERWRITING otherReq.txt FILE");
          fs.writeFile('./otherReqs.txt', otherReqs, (error) => {
            if (error) throw error;
          })
@@ -123,7 +130,7 @@ const links = await page.$$('ul.program-list li a');
            if (error) throw error;
          })
        }
-
+*/
 
 await browser.close();
 } catch (error) {
