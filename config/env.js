@@ -1,7 +1,12 @@
 const env = {
-  database: 'plannerdb',
+  // database: 'plannerdb',
+  // username: 'root',
+  // password: 'cri6sP#ss',
+
+  database: 'etown_course_planner',
   username: 'root',
-  password: 'cri6sP#ss',
+  password: 'jingwen',
+
   host: 'localhost',
   dialect: 'mysql',
   pool: {
