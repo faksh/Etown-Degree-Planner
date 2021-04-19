@@ -1,11 +1,15 @@
-var mysql = require('mysql');
+// var mysql = require('mysql');
 const env = require('./env.js');
+
 const Sequelize = require('sequelize');
 
 const sequelize = new Sequelize(env.database, env.username, env.password, {
   host: env.host,
   dialect: env.dialect,
   operatorsAliases: false,
+  define: {
+    timestamps: false
+  },
 
   pool: {
     max: env.max,
@@ -19,7 +23,8 @@ const db = {};
 db.Sequelize = Sequelize;
 db.sequelize = sequelize;
 
-db.Degree = require('./user-api.js')(sequelize, Sequelize);
+// db.Degree = require('../user-api.js')(sequelize, Sequelize);
+db.Course = require('../models/course.model.js')(sequelize, Sequelize);
 
 module.exports = db;
 
