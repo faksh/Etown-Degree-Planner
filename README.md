@@ -8,7 +8,7 @@ Update the ```config/env.js``` file with your MySQL configurations.
 
 
 ### STEP 2. Create database and table from MySQL
-Create database from MySQL. Please make sure the database name is same with the name specified in the ```config/env.js``` configuration file.
+Create a database from MySQL. Please make sure the database name is same with the name specified in the ```config/env.js``` configuration file.
 
 
 Create a ```courses``` table in your database. The ```courses``` table is created based on the ```Course``` model from ```models\course.model.js```.
