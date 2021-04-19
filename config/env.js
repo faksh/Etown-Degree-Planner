@@ -1,7 +1,7 @@
 const env = {
-  database: 'plannerdb',
-  username: 'root',
-  password: 'cri6sP#ss',
+  database: '', // update this field with your database name
+  username: '', // update this field with your username
+  password: '', // update this field with your password
 
   host: 'localhost',
   dialect: 'mysql',
