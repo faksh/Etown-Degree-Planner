@@ -69,7 +69,6 @@ function insertToDB(course) {
 }
 
 
-
 function extractCourseItems(courseText, h3_tags, strong_tags) {
     const course_items = courseText.trim().split('\n');
 
@@ -147,13 +146,6 @@ function extractCourseItems(courseText, h3_tags, strong_tags) {
             courseText = courseText.split(requisites[key])[0].trim();
         }
     }
-
-    // // debuging - checking the course items
-    // console.log('--------------------------------------------');
-    // for (var key in object) {
-    //     console.log(key + ':\t\t' + object[key]);
-    // }
-    // console.log('--------------------------------------------');
 
     return object;
 }

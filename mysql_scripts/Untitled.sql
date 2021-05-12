@@ -2,35 +2,33 @@ SET SQL_SAFE_UPDATES = 0;
 
 show databases;
 
-drop database etown_course_planner;
+drop database plannerdb;
 
-create database etown_course_planner;
+create database plannerdb;
 
-use etown_course_planner;
+use plannerdb;
 
 show tables;
 
-drop table courses;
+drop table courses; 
 
 create table courses (
 	code VARCHAR(50) primary key,
     title VARCHAR(200) NOT NULL,
     credits VARCHAR(50),
     core VARCHAR(100),
-    descrip TEXT, 
+    descrip TEXT,
     sle VARCHAR(200),
-    prereq TEXT, 
+    prereq TEXT,
     coreq VARCHAR(200),
     hours VARCHAR(200),
     graded VARCHAR(200),
     register VARCHAR(200),
     repeatable VARCHAR(200),
-    offered VARCHAR(200) 
+    offered VARCHAR(200)
 );
 
 delete from courses;
 select * from courses;
 
 select COUNT(*) from courses;
-
-
